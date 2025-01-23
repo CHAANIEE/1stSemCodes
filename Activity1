@@ -1,0 +1,19 @@
+public class Activity1Lagula {
+  public static void main(String[] args){ 
+      System.out.println("My name is Christian T. Lagula");
+      System.out.println("I am first year BS information Technology");
+     
+      
+     int myNum = 5;
+     float myFloatNum = 5.99f;
+     char myLetter = 'D';
+     boolean myBool = true;
+     String myText = "Hello";
+     System.out.println(myNum);
+     System.out.println(myFloatNum);
+     System.out.println(myLetter);
+     System.out.println(myBool);
+     System.out.println(myText);
+    
+    }
+}
